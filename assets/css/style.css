@@ -517,7 +517,6 @@ section {
   padding-bottom: 0;
 }
 
-.resume .resume-item::before {
   content: "";
   position: absolute;
   width: 16px;
